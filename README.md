@@ -1,15 +1,17 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+```2.Hafta 2.Ödev```
 
 # Homework 
-```Ödev```
+```ToDo-List```
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+```React.js ile ToDo App Uygulaması ```
 
 
 ## Author
 
-```Ödevi yapan```
+```Ceyda Doğan```
+
+<img width="599" alt="todo-img" src="https://user-images.githubusercontent.com/101646667/185675961-a9175c8b-17fd-4483-bb9c-10964a102f30.png">
